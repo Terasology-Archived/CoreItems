@@ -1,0 +1,13 @@
+{
+    "parent": "engine:iconItem",
+    "DisplayName": {
+        "name": "Explode Tool"
+    },
+    "Item": {
+        "icon": "engine:items#dynamiteStick",
+        "usage": "ON_BLOCK"
+    },
+    "ExplosionAction": {
+        "relativeTo": "Target"
+    }
+}
